@@ -103,6 +103,12 @@
 			"link": "https://mirai.mamoe.net/",
 			"icon": "https://cdn.jsdelivr.net/gh/mamoe/mirai@latest/docs/mirai.png",
 			"desc": "高效率 QQ 机器人支持库"
+		},
+		{
+			"name": "Bingeone",
+			"link": "https://bingeone.top",
+			"icon": "https://bingeone.top/img/src/logo.png",
+			"desc": "生命在于折腾，长寿源于静止"
 		}
 	]
 }
